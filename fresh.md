@@ -15,7 +15,10 @@ But **what is fresh?**
 
 As a Maintainer: Research if the stuff you're including is actually fresh. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
 
-As a Watcher: Check new PR's and comment/upvote/downvote to help provide an indication of freshness. Fork the repo if the Maintainer isn't doing a good job stayin' fresh.
+As a Watcher: 
+
+- Check new PR's and comment/upvote/downvote to help provide an indication of freshness.
+- Fork the repo if the Maintainer isn't doing a good job stayin' fresh.
 
 ## Comment on why something is fresh
 
