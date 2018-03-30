@@ -6,9 +6,9 @@ But **what is fresh?**
 
 ## The **fresh** standard v0.1
 
-- **fresh as in new**: **Every link must display an accompanying date**. For blogposts, talks or other content with a definite date, that is easy. For github projects or websites that are potentially evergreen, the date is the last date where the maintainer(s) have verified freshness.
+- **fresh** as in **new**: **Every link must display an accompanying date**. For blogposts, talks or other content with a definite date, that is easy. For github projects or websites that are potentially evergreen, the date is the last date where the maintainer(s) have verified freshness.
   - long lists should split links out by topic, at maintainer's discretion.
-- **fresh as in good**: Watcher opinion matters. **New links are submitted by PR. PRs that get a preset number of net 👍🏼 get added.** Maintainers should encourage readers to watch for and review PR's at the top of the README.
+- **fresh** as in **good**: Watcher opinion matters. **New links are submitted by PR. PRs that get a preset number of net 👍🏼 get added.** Maintainers should encourage readers to watch for and review PR's at the top of the README.
 - **when stuff goes stale**: They get relegated to a `History` topic which is in chronological order for future readers to peruse. If really awesome stuff is going stale, too bad: get someone to make an updated talk or blogpost to replace it. Let the old make way for the new.
 
 ## Only fresh is fresh
