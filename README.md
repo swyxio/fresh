@@ -9,7 +9,7 @@
 **YOU** have a say on every **fresh** 🍅 list. 
 
 - Check out [Pull Request](https://github.com/sw-yx/fresh-async-react/pulls)s for new links
-- Check out other people's PRs and 👍🏼 or 👎 or comment. PRs above 5 👍's get approved on this repo
+- Check out other people's PRs and 👍 or 👎 or comment. PRs above 5 👍's get approved on this repo
 - Hit **WATCH** on this repo to stay up to date!
 
 # Keep Us Fresh 🍅
