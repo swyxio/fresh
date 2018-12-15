@@ -1,24 +1,19 @@
 # The fresh manifesto
 
-If you want your list to be included on **fresh**, try to only include actual fresh stuff in your list. After all, it's a live curation, not a museum.
+If you want your list to be included on **fresh**, try to only include actual fresh stuff in your list. After all, it's a **live curation, not a museum**.
 
 But **what is fresh?**
 
-## The **fresh** standard v0.1
+## The **fresh** standard v0.2
 
 - **fresh** as in **new**: **Every link must display an accompanying date**. For blogposts, talks or other content with a definite date, that is easy. For github projects or websites that are potentially evergreen, the date is the last date where the maintainer(s) have verified freshness.
   - long lists should split links out by topic, at maintainer's discretion.
-- **fresh** as in **good**: Watcher opinion matters. **New links are submitted by PR. PRs that get a preset number of net 👍🏼 get added.** Maintainers should encourage readers to watch for and review PR's at the top of the README.
+- **fresh** as in **good**: It is the responsibility of the maintainer to keep a high quality bar. This is necessarily subjective and imperfect. It also means people should fork `fresh` lists if they feel they can do a better job of maintaining.
 - **when stuff goes stale**: They get relegated to a `History` topic which is in chronological order for future readers to peruse. If really awesome stuff is going stale, too bad: get someone to make an updated talk or blogpost to replace it. Let the old make way for the new.
 
-## Only fresh is fresh
+## Fresh summary
 
-As a Maintainer: Research if the stuff you're including is actually fresh. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
-
-As a Watcher: 
-
-- Check new PR's and comment/upvote/downvote to help provide an indication of freshness.
-- Fork the repo if the Maintainer isn't doing a good job stayin' fresh.
+Once you subjectively have enough content that it starts getting difficult to hold everything in your head, start writing an aggregated summary briefing on the topic. Use the links you have accumulated just like a wiki.
 
 ## Comment on why something is fresh
 
@@ -26,7 +21,7 @@ Apart from suggesting a particular item on your list, you should also inform you
 
 ## Make it clear what the list is about
 
-Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject well enough.
+Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other `fresh` lists if you think they already cover a certain subject well enough.
 
 ## Pay attention to grammar
 
