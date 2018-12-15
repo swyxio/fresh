@@ -21,7 +21,8 @@
 
 # Links
 
-- 29 Mar 2018: [fresh-async-react](https://github.com/sw-yx/fresh-async-react) Fresh links about async React (React Fiber, Time Slicing, React Suspense, etc)
+- 29 Mar 2018: [fresh-concurrent-react](https://github.com/sw-yx/fresh-concurrent-react) Fresh links about async React (React Fiber, Time Slicing, React Suspense, etc)
+- 13 Nov 2018: [fresh-react-hooks](https://github.com/sw-yx/fresh-react-hooks) Fresh links about React Hooks by purpose, thoughtpieces and demos
 
 # History
 
